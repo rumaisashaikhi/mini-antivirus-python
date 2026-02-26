@@ -1,7 +1,4 @@
- mini-antivirus-python
-A basic antivirus simulation built in Python using hash-based malware detection. Demonstrates how real antivirus software detects known malware signatures.
-
-  Mini Antivirus in Python
+ 🛡 Mini Antivirus in Python
 
 This project demonstrates how antivirus software works using hash-based detection.
 
